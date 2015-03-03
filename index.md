@@ -247,7 +247,7 @@ Legal Project Manager at Honigman Miller Schwartz & Cohn LLP, member of the Mich
 
 [@pmellis](https://twitter.com/pmellis)
 
-[LinkedIn](https://www.linkedin.com/en/patrickmellis)
+[LinkedIn](https://www.linkedin.com/in/patrickmellis/en)
 
 ## [Stephen Palley](https://github.com/sdpalley)
 
