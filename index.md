@@ -245,11 +245,13 @@ Member of Madrid (Spain) Bar. IP litigator. IP lecturer. Joined Github on Feb 24
 
 ## [Patrick Ellis](https://github.com/pmellis)
 
-Legal Project Manager at Honigman Miller Schwartz & Cohn LLP, member of the Michigan Bar, broadly interested in the intersection of legal operations, business development, technology and access to justice, with a particular focus on legal project management, process improvement and legal analytics.
+Legal Project Manager at [Honigman Miller Schwartz & Cohn LLP](http://www.honigman.com/), member of the Michigan Bar, broadly interested in the intersection of legal operations, strategy, technology and access to justice, with a particular focus on legal project management, process improvement and legal analytics.
 
 [@pmellis](https://twitter.com/pmellis)
 
 [LinkedIn](https://www.linkedin.com/en/patrickmellis)
+
+[Blog](http://legaltechstrategy.com/)
 
 ## [Stephen Palley](https://github.com/sdpalley)
 
